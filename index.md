@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
+title: deja-v-u!
 tagline: Supporting tagline
 ---
 
-# Hello World
+# [go importpath](http://deja-v-u.github.io/importpath.md)
